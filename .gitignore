@@ -1,0 +1,13 @@
+# Obsidian
+.obsidian/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/settings.json
+
+# AI agent local state（端末ごとの設定・認証情報が入るため共有しない）
+.claude/settings.local.json
+.claude/.credentials.json
