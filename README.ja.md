@@ -221,6 +221,10 @@ notes/log.md と notes/index.md を読んで、このWikiの現状を把握し�
 
 不具合の報告、ルールやテンプレートの改善案は [Issues](https://github.com/ReoT-donzuba/kikiwiki/issues) へお願いします。使ってみた感想も歓迎です。詳細は [CONTRIBUTING.md](CONTRIBUTING.md) を参照してください。
 
+## 作者
+
+[ReoT-donzuba](https://github.com/ReoT-donzuba) が、Karpathyの LLM Wiki パターンを土台に作成しました。
+
 ## ライセンス
 
 [MIT License](LICENSE)。改変して自組織用のテンプレートにするのも自由です。

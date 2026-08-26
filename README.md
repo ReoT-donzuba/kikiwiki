@@ -229,6 +229,10 @@ The metadata field names (`knowledge_origin`, `evidence_level`, `status`, `porta
 
 Bug reports and proposals for the rules or templates are welcome in [Issues](https://github.com/ReoT-donzuba/kikiwiki/issues) — impressions from actually using it too. See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
 
+## Author
+
+Created by [ReoT-donzuba](https://github.com/ReoT-donzuba), building on Karpathy's LLM wiki pattern.
+
 ## License
 
 [MIT](LICENSE). Fork it and reshape it into your own organization's template freely.
